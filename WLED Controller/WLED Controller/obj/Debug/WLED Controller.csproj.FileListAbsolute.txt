@@ -1,0 +1,10 @@
+C:\Users\E387694\OneDrive - Honeywell\Coding Projects\WLED\WLED Controller\WLED Controller\bin\Debug\WLED Controller.exe.config
+C:\Users\E387694\OneDrive - Honeywell\Coding Projects\WLED\WLED Controller\WLED Controller\bin\Debug\WLED Controller.exe
+C:\Users\E387694\OneDrive - Honeywell\Coding Projects\WLED\WLED Controller\WLED Controller\bin\Debug\WLED Controller.pdb
+C:\Users\E387694\OneDrive - Honeywell\Coding Projects\WLED\WLED Controller\WLED Controller\obj\Debug\WLED Controller.csprojAssemblyReference.cache
+C:\Users\E387694\OneDrive - Honeywell\Coding Projects\WLED\WLED Controller\WLED Controller\obj\Debug\WLED_Controller.Form1.resources
+C:\Users\E387694\OneDrive - Honeywell\Coding Projects\WLED\WLED Controller\WLED Controller\obj\Debug\WLED_Controller.Properties.Resources.resources
+C:\Users\E387694\OneDrive - Honeywell\Coding Projects\WLED\WLED Controller\WLED Controller\obj\Debug\WLED Controller.csproj.GenerateResource.cache
+C:\Users\E387694\OneDrive - Honeywell\Coding Projects\WLED\WLED Controller\WLED Controller\obj\Debug\WLED Controller.csproj.CoreCompileInputs.cache
+C:\Users\E387694\OneDrive - Honeywell\Coding Projects\WLED\WLED Controller\WLED Controller\obj\Debug\WLED Controller.exe
+C:\Users\E387694\OneDrive - Honeywell\Coding Projects\WLED\WLED Controller\WLED Controller\obj\Debug\WLED Controller.pdb
